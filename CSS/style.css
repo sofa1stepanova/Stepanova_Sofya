@@ -279,8 +279,8 @@ body {
   left: 545px;
 }
 .ending {
-  position: absolute;
-  top: 6642px;
-  left: 0px;
-  margin-bottom: 0;
+    position: absolute;
+    top: 6642px;
+    left: -8px;
+    margin-bottom: 0;
 }
