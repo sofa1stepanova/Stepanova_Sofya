@@ -133,7 +133,7 @@ body {
 .cups {
     position: absolute;
     top: 504px;
-    left: 0px;
+    left: -8px;
 }
 .line1 {
     position: absolute;
@@ -284,3 +284,4 @@ body {
     left: -8px;
     margin-bottom: 0;
 }
+
