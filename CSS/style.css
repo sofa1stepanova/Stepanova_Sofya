@@ -1,0 +1,286 @@
+@font-face {
+  font-family: 'Vollkorn';
+  src: url('../assets & font/Vollkorn/static/Vollkorn-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Vollkorn';
+  src: url('../assets & font/Vollkorn/static/Vollkorn-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Vollkorn';
+  src: url('../assets & font/Vollkorn/static/Vollkorn-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Vollkorn';
+  src: url('../assets & font/Vollkorn/static/Vollkorn-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Vollkorn';
+  src: url('../assets & font/Vollkorn/static/Vollkorn-ExtraBold.ttf') format('truetype');
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Vollkorn';
+  src: url('../assets & font/Vollkorn/static/Vollkorn-Black.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Vollkorn';
+  src: url('../assets & font/Vollkorn/static/Vollkorn-Italic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Vollkorn';
+  src: url('../assets & font/Vollkorn/static/Vollkorn-MediumItalic.ttf') format('truetype');
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Vollkorn';
+  src: url('../assets & font/Vollkorn/static/Vollkorn-SemiBoldItalic.ttf') format('truetype');
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Vollkorn';
+  src: url('../assets & font/Vollkorn/static/Vollkorn-BoldItalic.ttf') format('truetype');
+  font-weight: 700;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Vollkorn';
+  src: url('../assets & font/Vollkorn/static/Vollkorn-ExtraBoldItalic.ttf') format('truetype');
+  font-weight: 800;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Vollkorn';
+  src: url('../assets & font/Vollkorn/static/Vollkorn-BlackItalic.ttf') format('truetype');
+  font-weight: 900;
+  font-style: italic;
+}
+
+body {
+    background-color: #E4DBD2;
+    width: 1560px;
+    overflow-x: hidden;
+    display: flex; 
+    font-family: 'Vollkorn';
+    position: relative;
+}
+.V {
+    position: absolute;
+    top: 85px;
+    left: 57px;
+}
+.littleO1 {
+    position: absolute;
+    top: 141px;
+    left: 305px;
+}
+.l {
+    position: absolute;
+    top: 110px;
+    left: 486px;
+}
+.ll {
+    position: absolute;
+    top: 229px;
+    left: 604px;
+}
+.k {
+    position: absolute;
+    top: 257px;
+    left: 750px;
+}
+.bigO1 {
+    position: absolute;
+    top: 192px;
+    left: 914px;
+}
+.r {
+    position: absolute;
+    top: 170px;
+    left: 1126px;
+}
+.n {
+    position: absolute;
+    top: 171px;
+    left: 1313px;
+}
+.cups {
+    position: absolute;
+    top: 504px;
+    left: 0px;
+}
+.line1 {
+    position: absolute;
+    top: 344px;
+    left: -5px;
+}
+.bigpic {
+    position: absolute;
+    top: 1234px;
+    left: 0px;
+}
+.t1 {
+    width: 1089px;
+    text-align: center;
+    font-family: 'Vollkorn';
+    font-weight: 500;
+    font-size: 42px;
+    color: #6C523B;
+    position: absolute;
+    top: 1747px;
+    left: 250px;
+}
+.littleO2 {
+  position: absolute;
+  top: 1613px;
+  left: 665px;
+}
+.bigO2 {
+  position: absolute;
+  top: 1558px;
+  left: 1105px;
+}
+.fontmenu {
+  position: absolute;
+  top: 2316px;
+  left: 294px;
+}
+.littleO3 {
+  position: absolute;
+  top: 2713px;
+  left: 35px;
+}
+.bigO3 {
+  position: absolute;
+  top: 2414px;
+  left: 1316px;
+}
+.line2 {
+  position: absolute;
+  top: 2330px;
+  left: 0px;
+}
+.line3 {
+  position: absolute;
+  top: 2804px;
+  left: 1265px;
+}
+.H1 {
+    font-family: 'Vollkorn';
+    font-weight: 900;
+    font-size: 70px;
+    color: #6C523B;
+    position: absolute;
+    top: 3241px;
+    left: 63px;
+}
+.t2 {
+    width: 720px;
+    font-family: 'Vollkorn';
+    font-weight: 500;
+    font-size: 42px;
+    color: #6C523B;
+    position: absolute;
+    top: 3390px;
+    left: 63px;
+}
+.letter1 {
+  position: absolute;
+  top: 3672px;
+  left: 735px;
+}
+.letter2 {
+  position: absolute;
+  top: 3365px;
+  left: 1174px;
+}
+.bigO4 {
+  position: absolute;
+  top: 3781px;
+  left: 103px;
+}
+.littleO4 {
+  position: absolute;
+  top: 3815px;
+  left: 332px;
+}
+.line4 {
+  position: absolute;
+  top: 3406px;
+  left: 0px;
+}
+.line5 {
+  position: absolute;
+  top: 3525px;
+  left: 1047px;
+}
+.H2 {
+    font-family: 'Vollkorn';
+    font-weight: 900;
+    font-size: 70px;
+    color: #6C523B;
+    position: absolute;
+    top: 4301px;
+    left: 63px;
+}
+.bigpic2 {
+  position: absolute;
+  top: 4421px;
+  left: 63px;
+}
+.H3 {
+    font-family: 'Vollkorn';
+    font-weight: 900;
+    font-size: 70px;
+    color: #6C523B;
+    position: absolute;
+    top: 5460px;
+    left: 63px;
+}
+.menu {
+  position: absolute;
+  top: 5613px;
+  left: 126px;
+}
+.coffeecup {
+  position: absolute;
+  top: 5656px;
+  left: 907px;
+}
+.oO {
+  position: absolute;
+  top: 6409px;
+  left: 545px;
+}
+.ending {
+  position: absolute;
+  top: 6642px;
+  left: 0px;
+  margin-bottom: 0;
+}
