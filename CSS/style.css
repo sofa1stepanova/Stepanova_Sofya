@@ -89,51 +89,79 @@ body {
     display: flex; 
     font-family: 'Vollkorn';
     position: relative;
+    margin-right: -8px;
+    margin: 0px;
+    padding: 0px;
 }
 .V {
     position: absolute;
-    top: 85px;
-    left: 57px;
+    top: 48px;
+    left: 50px;
+    font-weight: 900;
+    font-size: 300px;
+    color: #3A2C1F;
+    transform: rotate(-18deg);
 }
 .littleO1 {
     position: absolute;
-    top: 141px;
-    left: 305px;
+    top: 130px;
+    left: 258px;
 }
 .l {
     position: absolute;
-    top: 110px;
-    left: 486px;
+    top: 46px;
+    left: 454px;
+    font-weight: 900;
+    font-size: 300px;
+    color: #3A2C1F;
+    transform: rotate(14deg);
 }
 .ll {
     position: absolute;
-    top: 229px;
-    left: 604px;
+    top: 211px;
+    left: 592px;
+    font-weight: 900;
+    font-size: 300px;
+    color: #3A2C1F;
+    transform: rotate(-2deg);
 }
 .k {
     position: absolute;
-    top: 257px;
-    left: 750px;
+    top: 185px;
+    left: 729px;
+    font-weight: 900;
+    font-size: 300px;
+    color: #3A2C1F;
+    transform: rotate(-2deg);
 }
 .bigO1 {
     position: absolute;
-    top: 192px;
-    left: 914px;
+    top: 206px;
+    left: 939px;
 }
 .r {
     position: absolute;
-    top: 170px;
-    left: 1126px;
+    top: 90px;
+    left: 1130px;
+    font-weight: 900;
+    font-size: 300px;
+    color: #3A2C1F;
+    transform: rotate(-13deg);
 }
 .n {
     position: absolute;
-    top: 171px;
-    left: 1313px;
+    top: 87px;
+    left: 1326px;
+    font-weight: 900;
+    font-size: 300px;
+    color: #3A2C1F;
+    transform: rotate(6deg);
 }
 .cups {
     position: absolute;
     top: 504px;
     left: -8px;
+    
 }
 .line1 {
     position: absolute;
@@ -161,6 +189,124 @@ body {
   top: 1613px;
   left: 665px;
 }
+.name {
+    position: absolute;
+    top: 2331px;
+    left: 519px;
+    font-weight: 900;
+    font-size: 54px;
+    color: #7B5D45;
+    z-index: 10;
+    text-align: center;
+}
+.ri {
+    position: absolute;
+    top: 2435px;
+    left: 559px;
+    font-weight: 400;
+    font-size: 52px;
+    color: #7B5D45;
+    z-index: 10;
+}
+.mi {
+    position: absolute;
+    top: 2544px;
+    left: 559px;
+    font-weight: 500;
+    font-size: 52px;
+    color: #7B5D45;
+    z-index: 10;
+}
+.sbi {
+    position: absolute;
+    top: 2651px;
+    left: 559px;
+    font-weight: 600;
+    font-size: 52px;
+    color: #7B5D45;
+    z-index: 10;
+}
+.bi {
+    position: absolute;
+    top: 2758px;
+    left: 559px;
+    font-weight: 700;
+    font-size: 52px;
+    color: #7B5D45;
+    z-index: 10;
+}
+.ebi {
+    position: absolute;
+    top: 2865px;
+    left: 559px;
+    font-weight: 800;
+    font-size: 52px;
+    color: #7B5D45;
+    z-index: 10;
+}
+.bbi {
+    position: absolute;
+    top: 2966px;
+    left: 559px;
+    font-weight: 900;
+    font-size: 52px;
+    color: #7B5D45;
+    z-index: 10;
+}
+.rii {
+    position: absolute;
+    top: 2435px;
+    left: 851px;
+    font-weight: 400;
+    font-size: 52px;
+    color: #7B5D45;
+    z-index: 10;
+}
+.mii {
+    position: absolute;
+    top: 2544px;
+    left: 851px;
+    font-weight: 500;
+    font-size: 52px;
+    color: #7B5D45;
+    z-index: 10;
+}
+.sbii {
+    position: absolute;
+    top: 2651px;
+    left: 851px;
+    font-weight: 600;
+    font-size: 52px;
+    color: #7B5D45;
+    z-index: 10;
+}
+.bii {
+    position: absolute;
+    top: 2758px;
+    left: 851px;
+    font-weight: 700;
+    font-size: 52px;
+    color: #7B5D45;
+    z-index: 10;
+}
+.ebii {
+    position: absolute;
+    top: 2865px;
+    left: 851px;
+    font-weight: 800;
+    font-size: 52px;
+    color: #7B5D45;
+    z-index: 10;
+}
+.bbii {
+    position: absolute;
+    top: 2966px;
+    left: 851px;
+    font-weight: 900;
+    font-size: 52px;
+    color: #7B5D45;
+    z-index: 10;
+}
 .bigO2 {
   position: absolute;
   top: 1558px;
@@ -169,7 +315,8 @@ body {
 .fontmenu {
   position: absolute;
   top: 2316px;
-  left: 294px;
+  left: 291px;
+  z-index: 1;
 }
 .littleO3 {
   position: absolute;
@@ -277,11 +424,30 @@ body {
   position: absolute;
   top: 6409px;
   left: 545px;
+  z-index: 10;
+}
+.f {
+  position: absolute;
+  top: 6724px;
+  left: 63px;
+  z-index: 10;
+  font-weight: 500;
+  color: #FFFFFF;
+  font-size: 64px;
+}
+.ff {
+  position: absolute;
+  top: 6821px;
+  left: 63px;
+  z-index: 10;
+  font-weight: 500;
+  color: #FFFFFF;
+  font-size: 64px;
 }
 .ending {
     position: absolute;
     top: 6642px;
     left: -8px;
     margin-bottom: 0;
+    z-index: 1;
 }
-
