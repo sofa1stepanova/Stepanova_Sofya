@@ -429,7 +429,7 @@ body {
 .f {
   position: absolute;
   top: 6724px;
-  left: 63px;
+  left: 60px;
   z-index: 10;
   font-weight: 500;
   color: #FFFFFF;
@@ -438,7 +438,7 @@ body {
 .ff {
   position: absolute;
   top: 6821px;
-  left: 63px;
+  left: 60px;
   z-index: 10;
   font-weight: 500;
   color: #FFFFFF;
@@ -451,3 +451,4 @@ body {
     margin-bottom: 0;
     z-index: 1;
 }
+
